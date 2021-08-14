@@ -1,0 +1,73 @@
+
+/*
+body {
+ background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(logo.jpg);
+ background-image: url('./logo.jpg');
+ background-size: cover;
+ background-position: center;
+}
+
+.login-box{
+	max-width: 700px;
+	float: none;
+	margin: 150px auto;
+}
+
+.login1{
+	background: rgba(211, 211, 211, 0.5);
+	padding: 30px;
+}
+
+.registration1{
+	background: rgba(211, 211, 211, 0.5);
+	padding: 30px;
+}
+
+.form-control{
+	background-color: transparent !important;
+}
+
+*/
+
+
+
+/*For login    */
+.login1{
+	margin: 150px auto;
+	width: 500px;
+	background: rgba(211, 211, 211, 0.5);
+	padding: 30px;
+	margin-left: 300px;
+
+}
+
+
+
+/*For registration   */
+/*.registration1{
+	margin: 150px auto;
+	width: 1000px;
+	background: rgba(211, 211, 211, 0.5);
+	padding: 30px;
+	margin-left: 300px;
+}
+*/
+/*For footer */
+.blog-footer{
+    padding: 2.5rem 0;
+    padding-left: 200px;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+
+/*validation error*/
+.error {
+	color: #FF0000;
+}
+
+.designinput {
+    border-radius: 40px !important;
+    box-shadow: 0 0 10px 1px rgba(0,0,0,.2);
+}
